@@ -13,5 +13,5 @@ Application uses:
 NuGet packages. Ensure you restore the packages (right click solution and select 'Restore NuGet Packages') once cloned the app in your local repo in case the app complains
 about references!
 
-The app is tested using Swagger and passed all CRUD operations. Another test option is using Postman. An exported Postman collections JSON file is provided within the root
-directory of the app for testing.
+The app is tested using Swagger and passed all CRUD operations. Another test option is using Postman. An exported Postman collections JSON file 
+(backend test API.postman_collection.json) is provided within the root directory of the app for testing.
