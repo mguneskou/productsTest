@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace productsTest.Controllers
 {
+    /// <summary>
+    /// Exposes methods that will be called when the API receives requests
+    /// </summary>
+
     [Route("api/[controller]")]
     [ApiController]
     public class productsController : ControllerBase
